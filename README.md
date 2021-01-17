@@ -1,3 +1,3 @@
 # myrepo
 testing my setup
-Earth to Git
+A commit I made from my comptuer
